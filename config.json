@@ -1,0 +1,16 @@
+{
+    "base_speed": 60,
+    "max_speed": 80,
+    "min_speed": 30,
+    "kp": 0.8,
+    "ki": 0.01,
+    "kd": 0.25,
+    "turn_threshold": 40,
+    "sharp_turn_speed": 70,
+    "turn_duration": 0.35,
+    "camera_roi_y": 180,
+    "camera_roi_height": 20,
+    "loop_frequency": 100,
+    "log_performance": true,
+    "emergency_stop_timeout": 2.0
+}
